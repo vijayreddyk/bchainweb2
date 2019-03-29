@@ -1,0 +1,33 @@
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+<beans>
+<bean name="/loginController.htm" class="com.bchain2.controllers.LoginController">
+</bean>
+<bean name="/signupController.htm" class="com.bchain2.controllers.signupController">
+</bean>
+<bean name="/checkController.htm" class="com.bchain2.controllers.checkController">
+</bean>
+<bean name="/signinController.htm" class="com.bchain2.controllers.signinController">
+</bean>
+<bean name="/homePageController.htm" class="com.bchain2.controllers.homePageController">
+</bean>
+<bean id="viewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+	<property name="prefix">
+		<value>/WEB-INF/jsp/</value>
+	</property>
+	<property name="suffix">
+		<value>.jsp</value>
+	</property>
+</bean>
+<!-- <bean id="urlMapping" class="org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping">
+	<property name="interceptors">
+    		<list>
+    			<ref bean="interceptor"/>
+    			<ref bean="validationinterceptor"/>
+    		</list>
+   	</property>
+</bean>
+<bean id="validationinterceptor"
+    	class="com.bchain2.interceptors.ValidationInterceptor">
+</bean> -->
+</beans>
+

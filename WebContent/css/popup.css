@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{margin:0 auto; padding:0; 
+}
+#wrapperpopup{
+	margin:0 auto; padding:0; width:550px; height:300px; border:3px solid #333333; background-color:#eeeeee;
+}
+#topwrapbar{
+	margin:0; padding:0; width:550px; height:30px; background-color:#333333;
+}
+.closepopupbutton{
+	margin:0; padding:0; margin-top:4px; float:left; padding-left:490px;
+}
+#middlesection{
+	margin:0 auto; padding:25px; width:500px; height:220px;
+}
+.popuphdsection{
+	margin:0; padding:0; width:500px; height:50px; font-family:Arial, Helvetica, sans-serif; font-size:18px; color:#000; font-weight:500; float:left;
+}
+.popupremarks{
+	margin:0; padding:0; width:500px; height:130px; float:left;
+}
+.popupremarkstxt{
+	margin:0; padding:0; width:120px; height:130px; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000; font-weight:500; float:left;
+}
+.popcolon{
+	margin:0; padding:0; width:5px; height:130px; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000; font-weight:bold; float:left;
+}
+.poptextbox{
+	margin:0; padding:0; width:370px; height:130px; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000; font-weight:normal; float:left;
+}
+#popbuttons{
+	margin:0; padding:0; width:500px; height:30px; margin-top:15px; float:left;
+}
+.popbuttonhgt{
+	margin:0; padding:0; width:120px; height:30px; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000; font-weight:500; float:left;
+}
+.popbutmain{
+	margin:0; padding:0; width:360px; height:30px;
+}

@@ -1,0 +1,16 @@
+.view-heading{
+border-bottom:1px solid #D0D0D0;
+background-color:#dddddd;
+padding:5px;
+overflow-wrap:break-word;
+}
+.view-value{
+padding:5px;
+overflow-wrap:break-word;
+background-color: #FCFCFC;
+}
+.view-container{
+padding-right:0px!important;
+padding-left:0px!important;
+border:1px solid #ddd;
+background-color:#F2EEEB;

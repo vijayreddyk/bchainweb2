@@ -1,0 +1,107 @@
+/* html, body {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+}
+
+body {
+    font: 100.01% "Trebuchet MS", Trebuchet, Tahoma, Verdana, Arial, sans-serif;
+    color: #333;
+    padding: 0;
+}
+
+body * {
+    line-height:1.22em;
+} */
+
+.maincontainer h1,.maincontainer h2, .maincontainer h3, .maincontainer h4,.maincontainer h5, .maincontainer h6 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color:#4088b8;
+    clear: both;
+}
+
+.maincontainer h1 {
+}
+
+.maincontainer h2 {
+    color: #c8c8c8;
+    margin-top: -25px;
+}
+
+
+.maincontainer h3 {
+}
+
+.maincontainer h4 {
+    color: #333;
+    margin-bottom: -10px;
+}
+
+p {
+   
+}
+
+
+/* ul, ol {
+    margin-left: 0;
+}
+
+ul ul {
+    margin-bottom: 20px;
+} */
+
+.maincontainer #wrap {
+    color: #404040;
+    margin: 20px 40px;
+}
+
+.maincontainer a {
+    color: #4088b8;
+}
+
+.maincontainer table {
+    font-size: inherit;
+    border: 1px solid #c8c8c8;
+}
+
+.maincontainer th {
+    background: #d8d8d8;
+    text-align: left;
+    padding: 5px;
+    white-space: nowrap;
+}
+
+.maincontainer td {
+    background: #f8f8f8;
+    text-align: left;
+    padding: 5px;
+    vertical-align: top;
+}
+
+.maincontainer select, .maincontainer input,.maincontainer textarea {
+    font: 80% "Trebuchet MS", Trebuchet, Tahoma, Verdana, Arial, sans-serif;
+}
+
+.maincontainer pre, .maincontainer code, .maincontainer tt,.maincontainer  dt {
+    font: 100% monospace;
+    margin: 20px 0;
+}
+
+.maincontainer pre,.maincontainer blockquote {
+    padding: 15px;
+    background-color: #f0f0f0;
+    margin: 20px 0;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+
+.maincontainer td pre {
+    font: 85% monospace;
+    padding: 5px;
+    margin: 5px 0;
+}
+
+.maincontainer #timepicker {
+    position:relative;
+    float:left;
+}

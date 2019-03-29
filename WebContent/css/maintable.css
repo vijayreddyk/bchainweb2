@@ -1,0 +1,138 @@
+/* CSS Document */
+#callversmall{
+	margin:0; padding:0; width:40px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; float:left;
+}
+#companycode{
+	margin:0; padding:0; width:60px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#termidcode{
+	margin:0; padding:0; width:70px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#collamtidcode111{
+	margin:0; padding:0; width:72px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#collamtidcode222{
+	margin:0; padding:0; width:72px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-right:10px; float:left;
+}
+#propidcode{
+	margin:0; padding:0; width:128px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#receipidcode{
+	margin:0; padding:0; width:140px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#collectoridcode{
+	margin:0; padding:0; width:70px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#colldateidcode{
+	margin:0; padding:0; width:116px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#actionidcode{
+	margin:0; padding:0; width:40px; height:20px; border-right:0px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#actionpics{
+	margin:0; padding:0; width:46px; height:26px; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:0px; padding-left:6px; float:left;
+}
+#collamtidcode{
+	margin:0; padding:0; width:66px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-right:10px; float:left;
+}
+#lastrowrow_lgtgreen_nobor{
+	margin:0; padding:0; background-color:#ecf2f5; width:963px;; height:26px; border-bottom:3px solid #ecf2f5;
+}
+#mobisnosmall{
+	margin:0; padding:0; width:65px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; float:left;
+}
+#mobcomp{
+	margin:0; padding:0; width:100px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#mobter{
+	margin:0; padding:0; width:150px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#partyobter{
+	margin:0; padding:0; width:180px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#mobnoupdt{
+	margin:0; padding:0; width:140px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#locmobupdt{
+	margin:0; padding:0; width:160px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#actmobupdt{
+	margin:0; padding:0; width:100px; height:20px; border-right:0px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#actions_mobileupdt{
+	margin:0; padding:0; width:100px; height:26px; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:0px; padding-left:6px; float:left;
+}
+#cancelsno{
+	margin:0; padding:0; width:32px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; float:left; height:20px;
+}
+#canpayloc{
+	margin:0; padding:0; width:75px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#canpayrecno{
+	margin:0; padding:0; width:140px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#canpayamt{
+	margin:0; padding:0; width:68px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#canpayreq{
+	margin:0; padding:0; width:68px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#canpaycomcode{
+	margin:0; padding:0; width:66px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left; height:20px;
+}
+#canpaypropno{
+	margin:0; padding:0; width:128px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left; height:20px;
+}
+#canpayrem{
+	margin:0; padding:0; width:140px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left; height:20px; 
+}
+#canpayact{
+	margin:0; padding:0; width:74px; height:20px; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#canpayact1{
+	margin:0; padding:0; width:74px; height:20px; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-left:10px; float:left;
+}
+#totamtcanpayamt{
+	margin:0; padding:0; width:68px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-right:10px; float:left;
+}
+#colappcolamt{
+	margin:0; padding:0; width:70px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#paycolupldt{
+	margin:0; padding:0; width:125px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#colveract{
+	margin:0; padding:0; width:105px; height:20px; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#colveract11{
+	width:105px; height:26px; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-left:10px; float:left;
+}
+#colappcolamtred{
+	width:68px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-right:10px; float:left;
+}
+.colapppropbox {
+	font-family: arial; font-size: 12px; font-weight: normal; color: #333333; text-decoration: none; margin: 0px; padding: 0px; float: left; height: 20px;
+	width: 140px; border: 1px solid #7f9db9; padding-left:4px; padding-right:4px;
+}
+.coappdrp {
+	font-family: Helvetica; font-size: 12px; font-weight: bold; color: #333333; text-decoration: none; float: left; height: 20px; 
+	padding-bottom: 0px; margin: 0px;  padding-left:4px; padding-right:12px; width:86px;
+}
+.coappdrptxt{
+	font-family:Helvetica; font-size:11px; color:#333333; font-weight:normal; text-decoration:none; width:84px; height:22px; 
+}
+#mangloset{
+	margin:0; padding:0; width:699px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#manglovalue{
+	margin:0; padding:0; width:60px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#downrow_green{
+	margin:0; padding:0; background-color:#ecf2f5; width:963px;; height:26px; border-bottom:0px solid #bbccdd; border-top:1px solid #bbccdd; border-left:1px solid #bbccdd; border-right:1px solid #bbccdd;
+}
+#downrowbottom_green{
+	margin:0; padding:0; background-color:#ecf2f5; width:963px;; height:26px; border-bottom:0px solid #bbccdd; border-top:1px solid #bbccdd; border-left:1px solid #bbccdd; border-right:1px solid #bbccdd; border-bottom:1px solid #bbccdd;
+}
+#mangloact{
+	margin:0; padding:0; width:100px; height:26px; padding-top:0px; padding-left:10px; float:left;
+}

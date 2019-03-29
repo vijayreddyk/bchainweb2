@@ -1,0 +1,190 @@
+
+.sub-table td{
+	border-right:1px solid #fff;
+	padding:8px !important;
+}
+.sub-table td:last-child{
+	border-right:0px;
+}
+#fullbackgroundwhite {
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+#fulltableblock {
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    float: left;
+    background-color: #FFF;
+}
+#multipleblock {
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+#leftmultiblock {
+    height: 100%;
+    float: left;
+}
+#rightmultipleblock {
+    height: 100%;
+    float: left;
+}
+#block1 {
+    width: 100%;
+    height: 100%;
+    float: left;
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.flipPaymentFiallocation{
+	margin: 0px 8px 0px 5px;
+	font-weight: bold;
+	border: 1px solid #e5e5e5;
+	padding:5px;
+	background-color: #dddddd;
+	color: #313131;
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 13px;
+	font-weight: bold;
+	cursor:pointer; 
+	font-weight: bold;
+}
+#viewpropblock {
+    width: 100%;
+    height: 250px;
+    height: auto;
+    float: left;
+}
+#bluetexthead {
+    width: 100%;
+    height: 30px;
+    display: block;
+    background-color: #dddddd;
+    font-family: arial;
+    font-size: 12px;
+    color: white;
+    font-weight: bold;
+}
+#multiblockhorrizontalsep {
+    width: 100%;
+    height: 1px;
+    float: left;
+    background-color: white;
+}
+#multirowbox {
+    width: 100%;
+    float: left;
+    height: 100%;
+    padding:0px;
+}
+#multileftbox {
+    width: 50%;
+    height: 100%;
+    float: left;
+    background-color: #dddddd;
+    display: block;
+    border-right:1px solid #fff;
+    padding:0px;
+}
+#multirightbox {
+    width: 50%;
+    float: left;
+    height: 100%;
+    background-color:  #D0D0D0;
+    padding:0px;
+}
+#fulltableblock_TC #multirightbox {
+    width: 49.5%;
+    float: left;
+    height: 100%;
+    background-color:  #D0D0D0;
+    padding:0px;
+} 
+.paymentFiallocation #multirightbox {
+    width: 49.8%;
+    float: left;
+    height: 100%;
+    background-color:  #D0D0D0;
+    padding:0px;
+}
+.paymentFiallocation #leftmultiblock{
+	padding-left:0px;
+} 
+#block2 {
+    width: 100%;
+    height: 100%;
+    float: left;
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#headtxtblue{
+	color:#ee0000;
+	line-height:32px;
+	margin-left:5px;
+}
+#rightblocktext{
+margin: 0;
+padding: 0;
+font-family: Helvetica;
+font-size: 11px;
+color: black;
+font-weight: normal;
+text-decoration: none;
+word-wrap: break-word;
+line-height: 26px;
+padding-left: 5px;
+}
+#leftblocktext{
+font-family: Helvetica;
+font-size: 11px;
+color: black;
+font-weight: bold;
+text-decoration: none;
+float: left; 
+line-height:26px;
+ padding-left: 5px;
+ }
+
+#multicolon {
+    width: 1px;
+    height: 26px;
+    float: left;
+    background: #fff;
+}
+/* #genericbox{
+ border:1px solid #e5e5e5;
+} */
+#detailsblock::after{
+	display:block;
+	clear:both;
+	content:"";
+}
+.target-form{
+	
+	padding: 15px 0px;
+}
+.propnoreqtxt{
+  margin-bottom:5px;	
+}
+.uploadimage{
+	float: right;
+    clear: both;
+    margin-right: 1%;
+    margin-bottom: 10px;
+    cursor:pointer;
+}
+@media only screen and (min-width:320px) and (max-width: 520px) {
+#multirightbox {
+    width: 49.5% !important;
+    float: left;
+    height: 100%;
+    background-color:  #D0D0D0;
+}
+}

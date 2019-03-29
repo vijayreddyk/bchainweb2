@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+#loginbox{
+	margin:0 auto; padding:0; width:1002px; height:500px; border:1px solid #bbccdd; background-color:#FFF; clear:both;
+}
+#mainpopupborder{
+	margin:0 auto; padding:0; width:475px; height:500px;
+}
+#popupborder{
+	margin:0 auto; padding:0; width:475px; height:500px;
+}
+#middlepopupbox{
+	margin:0 auto; padding:0; width:475px; height:500px;
+}
+#popmainhd{
+	margin:0; padding:0; width:450px; height:35px; font-family:Helvetica; font-size:18px; color:#333333; font-weight:bold; text-decoration:none; margin-top:7px; border:1px solid red;
+}

@@ -1,0 +1,213 @@
+@charset "utf-8";
+/* CSS Document */
+
+#generic{ margin:0 auto; padding:0; width:1002px; height:100%;}
+#boxcontainer{margin: 0 auto;padding: 0;width: 1004px; height:100%;}
+#titleblock{margin:0; padding:0; width:1002px; height:50px; background-color:#FFF;float:left;}
+#titleheading {margin: 0 auto;padding: 0 0 0 5px;width: 955px;height: 30px;font-family: Trebuchet MS;font-size: 18px;color: black;text-decoration: none;line-height: 35px;float:left;background-color: white; margin-left:20px;}
+#titleheading_calldet {margin: 0 auto;padding: 0;width: 900px;height: 46px;font-family: Helvetica;font-size: 18px;color: #333;font-weight: bold;text-decoration: none;line-height: 58px;float:left;background-color:#FFF; margin-left:20px;}
+
+#titlethinline{margin: 0;padding: 0;width: 963px;height: 1px;background-color: #000;float:left;margin-left:20px;}
+#singleblock{width:100%; height:100%; margin-bottom:20px; }
+#content{font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; font-size:12px; color:#333; text-decoration:none; line-height:22px; }
+#multipleblock{width:963px; height:100%; float:left;}
+#fullbackgroundwhite{margin:0 auto; width:1002px; height:100%; float:left; background-color:#FFF;}
+#fulltableblock{ margin:0 auto; width:963px; height:100%; float:left; background-color:#FFF; margin-left:20px;}
+#leftmultiblock{width:465px; height:100%; float:left;}
+#middlemultipleblock{width:30px; min-height:100px; float:left;}
+#rightmultipleblock{width:465px; height:100%; float:left;}
+.rightmultipleblock{width:465px; height:100%; float:left;}
+.justificationblock{width:950px; height:100%; float:left;}
+.block1{width:465px; height:100%; float:left;margin: 0;padding: 0; margin-top:10px; margin-bottom:10px;}
+.block2{width:465px; height:100%; float:left;margin: 0;padding: 0; margin-top:10px; margin-bottom:10px;}
+#block1{width:465px; height:100%; float:left;margin: 0;padding: 0; margin-top:10px; margin-bottom:10px;}
+#block2{width:465px; height:100%; float:left;margin: 0;padding: 0; margin-top:10px; margin-bottom:10px;}
+#block3{width:465px; height:100%; float:left;margin: 0;padding: 0; margin-top:10px; margin-bottom:10px;}
+#block4{width:465px; height:100%; float:left;margin: 0;padding: 0; margin-top:10px; margin-bottom:10px;}
+#block5{width:465px; height:100%; float:left;margin: 0;padding: 0; margin-top:10px; margin-bottom:10px;}
+#block6{width:465px; height:100%; float:left;margin: 0;padding: 0; margin-top:10px; margin-bottom:10px;}
+#block7{width:465px; height:100%; float:left;margin: 0;padding: 0; margin-top:10px; margin-bottom:10px;}
+#block8{width:465px; height:100%; float:left;margin: 0;padding: 0; margin-top:10px; margin-bottom:10px;}
+#block9{width:465px; height:100%; float:left;margin: 0;padding: 0; margin-top:10px; margin-bottom:10px;}
+#block10{width:465px; height:100%; float:left;margin: 0;padding: 0; margin-top:10px; margin-bottom:10px;}
+#singleblockfullrow{margin: 0;padding: 0;width: 963px;float: left;height:100%;}
+#viewdetailsleftblock{margin: 0;padding: 0;width: 250px;float: left;height:100%;background-color: #C7E1FC;}
+#colonseparator26{margin: 0;padding: 0;width: 1px;height: 26px;float: left;}
+#viewdetailsrightblock{margin: 0;padding: 0;width: 410px;float: left;height:100%;background-color: #D7EAFD;}
+#leftblocktext{font-family: Helvetica;font-size: 11px;color: black;font-weight: bold;text-decoration: none;float: left; line-height:26px; padding-left: 5px;}
+.leftblocktext{font-family: Helvetica;font-size: 11px;color: black;font-weight: bold;text-decoration: none;float: left; line-height:26px; padding-left: 5px;}
+#rightblocktext{margin: 0;padding: 0;font-family: Helvetica;font-size: 11px;color: black;font-weight: normal;text-decoration: none;word-wrap: break-word;line-height: 26px;padding-left: 5px;}
+.rightblocktext{margin: 0;padding: 0;font-family: Helvetica;font-size: 11px;color: black;font-weight: normal;text-decoration: none;word-wrap: break-word;line-height: 26px;padding-left: 5px;}
+#horizontallinesep{margin: 0;padding: 0;width: 963px;height: 1px;background-color: white;float: left;}
+detailsblock{width:963px; height:100%; float:left; margin-bottom:10px; margin-top:20px; border:1px solid black; }
+.viewpropblock{width: 465px;height: 250px;height: auto;float: left;}
+#viewpropblock{width: 465px;height: 250px;height: auto;float: left;}
+#viewallocblock{width: 465px;height: 25px;float: left;}
+#bluetexthead{width: 465px;height: 30px;display: block;background-color: #1F67BB;font-family: arial;font-size: 12px;color: white;font-weight: bold;}
+#headtxtblue{font-family: "Trebuchet MS";font-size: 14px;color: white;font-weight: 500;margin-left: 5px;line-height: 30px;letter-spacing: 1px;}
+#multiblockhorrizontalsep{width: 465px;height: 1px;float: left;background-color: white;}
+#multiblockhorrizontalsepjust{width: 945px;height: 1px;float: left;background-color: white;}
+#multirowbox{width: 465px;float: left;height:100%;}
+.multirowboxjust{width: 950px;float: left;height:100%;}
+.multirowbox{width: 465px;float: left;height:100%;}
+#multileftbox{width: 170px;height: 100%;float: left;background-color: #C7E1FC;display: block;}
+.multileftbox{width: 170px;height: 100%;float: left;background-color: #C7E1FC;display: block;}
+.multileftboxjust{width: 170px;height: 100%;float: left;background-color: #C7E1FC;display: block;}
+#multileftbox_calls{width: 170px;height: 100%;float: left;background-color: white;display: block;}
+#multicolon{width: 1px;height: 26px;float: left;}
+.multicolon{width: 1px;height: 26px;float: left;}
+#multirightbox{width: 294px;float: left;height: 100%;background-color: #D7EAFD;}
+.multirightbox{width: 294px;float: left;height: 100%;background-color: #D7EAFD;}
+.multirightboxjust{width: 775px;float: left;height: 100%;background-color: #D7EAFD;}
+#leftcolbluetxt{font-family: "Trebuchet MS";font-size: 12px;color: black;font-weight: lighter;text-decoration: none;float: left;line-height: 25px;padding-left: 5px;}
+#backbuttonscript{width:60px; height:28px; float:left;margin-top:10px;}
+.footgap{margin:0 auto;padding:0; width:1004px; height:50px; background-color:#FFF;float:left;}
+#footerwhite{margin: 0 auto;padding: 0;width: 1004px;height: 56px;background-color: white;float: left;}
+#footerline{margin: 0 auto;padding: 0;width: 1004px;height: 56px;background-color: white;float: left;}
+#genericbox{
+	margin:0 auto 20px; padding:0; width:1002px; min-height:486px;height:auto; border:1px solid #bbccdd; background-color:#FFF;float:left;
+}
+#entrow{margin:0; padding:0; width:963px; height:36px; float:left;}
+#entrow_ptprow1{margin:0; padding:0; width:963px; height:36px; float:left;}
+#entrow_ptprow2{margin:0; padding:0; width:963px; height:36px; float:left;}
+#entrow1{margin:0; padding:0; width:963px; height:36px; float:left;}
+#entrow2{margin:0; padding:0; width:963px; height:36px; float:left;}
+#entrow3{margin:0; padding:0; width:963px; height:36px; float:left;}
+#entrow4{margin:0; padding:0; width:963px; height:36px; float:left;}
+#entrow5{margin:0; padding:0; width:963px; height:65px; float:left;}
+#entrow6{margin:0; padding:0; width:963px; height:36px; float:left;}
+#entrow7{margin:0; padding:0; width:963px; height:36px; float:left;}
+#entrow9{margin:0; padding:0; width:963px; height:85px; float:left;}
+#entrow8{margin:0; padding:0; width:963px; height:36px; float:left;}
+#entrow10{margin:0; padding:0; width:963px; height:100px; float:left;}
+#entrow11{margin:0; padding:0; width:963px; height:36px; float:left;}
+#entrow12{margin:0; padding:0; width:963px; height:36px; float:left;}
+#entrow13{margin:0; padding:0; width:963px; height:100px; float:left;}
+#multileftbox_CollDet{width: 300px;height: 100%;float: left;background-color: #C7E1FC;display: block;}
+#multileftbox_DocDet{margin: 0;
+padding: 0;
+width: 250px;
+float: left;
+height: 26px;
+background-color: #C7E1FC;}
+
+#remarksCss{
+margin: 0;
+padding: 0;
+width: 250px;
+float: left;
+height: 100%;}
+
+
+
+
+#fullbackgroundwhite_TC{margin:0 auto; width:955px; height:100%; float:left; background-color:#E4EEFF;}
+.fullbackgroundwhite_TC{margin:0 auto; width:955px; height:100%; float:left; background-color:#E4EEFF;}
+#multipleblock_TC{width:950px; height:100%; float:left;background-color:#E4EEFF;}
+.multipleblock_TC{width:950px; height:100%; float:left;background-color:#E4EEFF;}
+#fulltableblock_TC{ margin:0 auto; width:950px; height:100%; float:left; background-color:#FFF;}
+.fulltableblock_TC{ margin:0 auto; width:950px; height:100%; float:left; background-color:#FFF;}
+#leftmultiblock_TC{width:465px; height:100%; float:left;background-color:#E4EEFF;}
+.leftmultiblock_TC{width:465px; height:100%; float:left;background-color:#E4EEFF;}
+#middlemultipleblock_TC{width:15px; min-height:100px; float:left;}
+.middlemultipleblock_TC{width:15px; min-height:100px; float:left;}
+#multirowbox_DocDev{width: 960px;float: left;height:100%;}
+.multirowbox_DocDev{width: 960px;float: left;height:100%;}
+#multileftbox_DocDev{width: 410px;height: 100%;float: left;background-color: white;display: block;}
+.multileftbox_DocDev{width: 410px;height: 100%;float: left;background-color: white;display: block;}
+
+#entrowsingle{
+margin: 0;
+padding: 0;
+width: 963px;
+float: left;
+height: 36px;
+}
+
+
+
+#viewassignleftblock {
+margin: 0;
+padding: 0;
+width: 250px;
+float: left;
+height: 36px;
+background-color: #C7E1FC;
+}
+
+
+
+
+#leftassignblock {
+font-family: Helvetica;
+font-size: 11px;
+color: black;
+font-weight: bold;
+text-decoration: none;
+float: left;
+height:36px;
+line-height: 34px;
+padding-left: 5px;
+}
+
+
+
+#colonseparator36 {
+margin: 0;
+padding: 0;
+width: 1px;
+height: 36px;
+float: left;
+}
+
+
+
+#viewassignrightblock {
+margin: 0;
+padding: 0;
+width: 960px;
+float: left;
+height: 36px;
+background-color: #D7EAFD;
+text-decoration:underline;
+}
+
+
+
+#rightassignblocktxt {
+margin: 0;
+padding: 0;
+font-family: Helvetica;
+font-size: 11px;
+color: black;
+font-weight: normal;
+text-decoration: none;
+word-wrap: break-word;
+height:36px;
+line-height: 34px;
+padding-left: 5px;
+}
+
+#horizontallinesep {
+margin: 0;
+padding: 0;
+width: 963px;
+height: 1px;
+background-color: white;
+float: left;
+}
+#extraBlock{margin-left:20px; float:left;}
+
+#documentLable{width:248px; height:20px; float:left; margin-top:15px; margin-left:20px;float:left;font-family: Helvetica;font-size: 14px;color: black;font-weight: normal;}
+
+#docFeedbackCss{width: 963px;height: 100%;margin: 0 auto;}
+#multileftbox__DocDev {
+height: 100%;
+background-color: #D7EAFD;
+}
+#buttonImage{
+width: 176px;
+height: 24px;
+float: left;
+margin-right: 10px;
+}

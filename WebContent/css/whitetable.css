@@ -1,0 +1,319 @@
+/* CSS Document */
+
+#proptablecoll{
+	margin:0; padding:0; width:963px; height:170px; float:left;
+}
+#paymod{
+	margin:0; padding:0; width:888px; height:20px; margin-left:80px; float:left;
+}
+#viewpropmod{
+	margin:0; padding:0; width:250px; height:20px; float:left;
+}
+
+.paymentviewcolon{
+	margin:0; padding:0; font-family:Helvetica; font-size:12px; color:#333333; font-weight:bold; text-decoration:none; width:10px; float:left; height:20px;
+}
+
+.collbreakup{
+	margin:0; padding:0; margin-left:10px; font-family:Helvetica; font-size:12px; color:#0088cc; font-weight:bold; text-decoration:none; width:240px; height:20px; 
+}
+.droppaytextfield{
+	margin:0; padding:0; width:145px; height:20px; font-family:arial; font-size:11px; color:#333333; font-weight:normal; text-decoration:none; 
+}
+#gapbar{
+	margin:0; padding:0; height:8px; width:963px; float:left;
+}
+#paygap{
+	margin:0; padding:0; width:963px; height:4px; float:left;
+}
+.textfield3{
+	margin:0; padding:0; width:134px; height:16px; font-family:arial; font-size:11px; color:#333333; font-weight:normal; text-decoration:none; padding-left:3px; padding-right:3px;
+}
+#natcollbox{
+	margin:0; padding:0; width:963px; height:110px; float:left;
+}
+.collnature{
+	margin:0; padding:0; width:883px; height:25px; font-family:Helvetica; font-size:12px; color:#ed1c24; font-weight:bold; text-decoration:none; padding-left:80px;
+}
+
+.collemibox{
+	margin:0; padding:0; width:798px; height:16px;
+}
+.naturecolltxt{
+	margin:0; padding:0; width:95px; height:14px; float:left;
+}
+.nattxtbox{
+	margin:0; padding:0; width:115px; height:16px; float:left; padding-right:10px; font-family:Helvetica; font-size:12px; color:#ed1c24; font-weight:bold; text-decoration:none;
+}
+#viewpropblock1{
+	margin:0; padding:0; width:289px; height:250px;height:auto; float:left; margin-left:15px; margin-right:15px;
+}
+#viewdetblock{
+	margin:0; padding:0; min-height:160px;height:auto; float:left;
+}
+#sizetable{
+	margin:0 auto; padding:0; width:963px; min-height:300px;overflow:auto; margin-top:10px;float:left;
+}
+.levelEcode{
+	margin:0 auto; padding:0; width:963px; height:185px; margin-top:0px;background-color:#edf4ff;border:1px solid #BCD;float:left;
+}
+.ecodeText
+{
+	margin-left:10px; padding:0; width:100px; height:20px; float:left;
+}
+#viewdettab{
+	margin:0 auto; padding:0; min-height:320px;height:auto; margin-top:10px; float:left;
+}
+#tablesizehgt {
+	margin:0; padding:0; min-height:333px;height:auto; float:left;
+}
+#viewsep{
+	margin:0; padding:0; width:3px; height:275px; float:left; background-image:url(../images/viewsep.jpg); background-repeat:no-repeat;
+}
+#newviewsep{
+	margin:0; padding:0; width:3px; height:250px; float:left; background-image:url(../images/viewsep_new.jpg); background-repeat:no-repeat;
+}
+.gappaymnt{
+	margin:0; padding:0; width:289px; float:left;
+}
+.gappaymnt_bot{
+	margin-left:10px;margin-right:10px; padding:0; width:940px; float:left;height:25px;margin-top:10px;
+}
+#proptxtcoll{
+	margin:0; padding:0; width:289px; height:18px; float:left; margin-top:5px;
+}
+.lefttxt{
+	margin:0; padding:0; width:135px; height:18px; float:left;
+}
+.lefttxtmid
+{
+margin:0; padding:0; width:150px; height:18px; float:left;
+}
+.colon{
+	margin:0; padding:0; width:8px; height:18px; float:left;
+}
+.blutxtrgt{
+	margin:0; padding:0; width:146px; float:left; height: auto !important; min-height:22px;
+}
+.blutxtrgtmid{
+	margin:0; padding:0; width:131px; float:left; height: auto !important; min-height:22px;
+}
+.blutxtrgt1{
+	margin:0; padding:0; width:90px; float:left; height: auto !important; min-height:22px;
+}
+.blutxtrgt2{
+	margin:0; padding:0; width:50px; float:left; height: auto !important; min-height:22px;
+}
+#leftblock{
+	margin:0; padding:0; width:100px; height:320px; float:left;
+}
+#middleblock{
+	margin:0; padding:0; min-height:320px;height:auto; float:left;
+}
+.viewlefttxt{
+	margin:0; padding:0; width:180px; height:20px; float:left;
+}
+.viewlefttxtWithPadding{
+	margin-left: 70px; padding:10px; width:180px; height:20px; float:left;
+}
+
+.viewblutxtrgt{
+	margin:0; padding:0; width:330px; float:left; height: auto !important; min-height:22px;word-break:break-all;
+}
+.viewblutxtrgtNew{
+	margin:0; padding:10px; width:500px; float:left; height: auto !important; min-height:22px;word-break:break-all;
+}
+.viewgaptxt{
+	margin:0; padding:0; width:850px; float:left; min-height:20px;height:auto;margin-bottom:8px;
+}
+.viewcolon{
+	margin:0; padding:0; width:18px; height:20px; float:left;
+}
+.viewcolonWithPadding{
+	margin:0; padding:10px; width:18px; height:20px; float:left;
+}
+#topblock{
+	margin:0; padding:0; width:863px; height:160px; float:left;
+}
+#lowbotblock{
+	margin:0; padding:0; width:863px; height:140px; float:left;
+}
+#midgapsep{
+	margin:0; padding:0; width:863px; height:35px; float:left;
+}
+#lowgap{
+	margin:0; padding:0; width: 863px; height:30px; float:left;
+}
+#cascollnat{
+	margin:0; padding:0; width:863px; height:90px; float:left;
+}
+#updatemidblk{
+	margin:0; padding:0; width:390px; height:320px; float:left; margin-right:10px;
+}
+#updatergtblk{
+	margin:0; padding:0; width:390px; height:320px; float:left; margin-right:10px;
+}
+#updttblsize{
+	margin:0; padding:0; width:390px; float:left;
+}
+.thirdparttxt{
+	margin:0; padding:0; font-family:Helvetica; font-size:12px; color:#0088cc; font-weight:bold; text-decoration:none; width:238px; height:20px; padding-left:152px; margin-top:5px; margin-bottom:5px;
+}
+.thirdpartviewtxt{
+	margin:0; padding:0; width:140px; height:20px; font-family:Helvetica; font-size:12px; color:#333333; font-weight:bold; text-decoration:none; float:left; margin-top:5px; margin-bottom:5px;
+}
+.thirdcoltxt{
+	margin:0; padding:0; font-family:Helvetica; font-size:12px; color:#333333; font-weight:bold; text-decoration:none; width:10px; float:left; height:20px; margin-top:5px; margin-bottom:5px;
+}
+
+.thirdpartviewtxt12{
+	margin:0; padding:0; width:160px; height:20px; font-family:Helvetica; font-size:12px; color:#333333; font-weight:bold; text-decoration:none; float:left; margin-top:5px; margin-bottom:5px;
+}
+.thirdparttxt12{
+	margin:0; padding:0; font-family:Helvetica; font-size:12px; color:#0088cc; font-weight:bold; text-decoration:none; width:218px; height:20px; padding-left:152px; margin-top:5px; margin-bottom:5px;
+}
+#modglotxt{
+	margin:0; padding:0; width:500px; height:20px; float:left; font-family:Helvetica; font-size:12px; color:#333333; font-weight:bold; text-decoration:none; margin-top:15px;
+}
+.manglocolon{
+	margin:0; padding:0; width:8px; height:18px; float:left; margin-top:15px;
+}
+.manglorgttxt{
+	margin:0; padding:0; width:350px; height:18px; float:left; margin-top:15px;
+}
+.modglosettxt {
+	margin:0; padding:0; width:75px; height:18px; float:left;
+}
+#hrowmodglo{
+	margin:0; padding:0; width:863px; height:22px; float:left;
+}
+.manterdrpdwn{
+	font-family:Helvetica; font-size:11px; color:#333333; font-weight:normal; text-decoration:none; width:140px; height:22px; 
+}
+#manterid{
+	margin:0; padding:0; width:120px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#mantermsisdn{
+	margin:0; padding:0; width:125px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#manterstateff{
+	margin:0; padding:0; width:153px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#maussaname{
+	margin:0; padding:0; width:185px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#maussarole{
+	margin:0; padding:0; width:180px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#maussaecode{
+	margin:0; padding:0; width:80px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#maussaloc{
+	margin:0; padding:0; width:120px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#maussamob{
+	margin:0; padding:0; width:105px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#maussatotname{
+	margin:0; padding:0; width:280px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#terassasto{
+	margin:0; padding:0; width:155px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#terassasloc{
+	margin:0; padding:0; width:108px; height:20px; border-right:1px solid #bbccdd; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+#actions_bluetxt{
+	margin:0; padding:0; width:84px; height:20px; font-family:Helvetica; font-size:12px; font-weight:bold; color:#000; text-decoration:none; padding-top:6px; padding-left:10px; float:left;
+}
+
+#changdiv{
+	margin:0; padding:0; width:500px; height:337px; border:1px solid #333333; bo
+}
+#chngpassmid{
+	margin:0 auto; padding:0; width:466px; height:337px;
+}
+.chngpasstxt{
+	margin:0; padding:0; width:466px; height:30px; margin-top:10px; font-family:Helvetica; font-size:20px; color:#0077c8; font-weight:bold; text-decoration:none;
+}
+.chngpassthkline{
+	margin:0; padding:0; width:466px; height:3px; background-color:#000;
+}
+.chngpassgap{
+	margin:0; padding:0; width:466px; height:16px;
+}
+.chngpassmidbox{
+	padding:0;margin-left:15px; width:466px; height:254px; background-color:#ebf1f5; border:1px solid #dae1e7;	
+}
+.chngpropmidbox{
+	padding:0;margin-left:15px; width:466px; height:280px; background-color:#ebf1f5; border:1px solid #dae1e7;	
+}
+.simchangemidbox{
+	padding:0;margin-left:15px; width:350px; height:154px; background-color:#ebf1f5; border:1px solid #dae1e7;	
+}
+.simchangegap{
+	margin:0; padding:0; width:350px; height:16px;
+}
+.simchangestatus{
+	margin:0 auto; width:346px; height:auto; float:left; margin-left:10px; margin-right:10px; min-height:35px;
+}
+.simchangeradio{
+	margin:0; padding:0; width:160px; padding-top:6px; font-family:Helvetica; font-size:12px; font-weight:bold; text-decoration:none; color:#0077C8; float:left;
+}
+
+.popupmidbox{
+	padding:0;margin-left:20px; width:430px; height:362px; background-color:#ebf1f5; border:1px solid #dae1e7;	
+}
+
+.chngusername{
+	margin:0; padding:0; width:444px; height:21px; font-family:Helvetica; font-size:12px; font-weight:bold; text-decoration:none; color:#474747; margin-left:20px; float:left;	
+}
+.chngtxtbox{
+	margin:0; padding:0; width:350px; height:30px; font-family:arial; font-size:14px; font-weight:normal; text-decoration:none; color:#333333; padding-left:2px; padding-right:2px;
+}
+.chngstar{
+	font-family:arial; font-size:12px; font-weight:bold; color:#ee1d23;
+}
+.chngpassusername{
+	margin:0; padding:0; width:446px; height:21px; font-family:Helvetica; font-size:12px; font-weight:bold; text-decoration:none; color:#474747; margin-left:20px; float:left;	
+}
+.txtboxheight{
+	width:466px; height:46px; float:left;padding-left:20px;
+}
+.reqcanpropnum{
+	margin:0 auto; width:446px; height:auto; float:left; margin-left:10px; margin-right:10px; min-height:35px;
+}
+.propnoreqcancel{
+	margin:0; padding:0; width:175px; padding-top:6px; font-family:Helvetica; font-size:12px; font-weight:bold; text-decoration:none; color:#474747; float:left;
+}
+.propnoreqtxt{
+	margin:0; padding:0; width:260px; padding-top:6px; font-family:Helvetica; font-size:12px; font-weight:bold; text-decoration:none; color:#0077C8; float:left;
+}
+
+.txtareareqcan{
+	margin:0; padding:0; width:200px; height:80px; font-family:Helvetica; font-size:12px; font-weight:normal; text-decoration:none; color:#666666; float:left;
+}
+.reqcancelviewcolon{
+	margin:0; padding:0; font-family:Helvetica; font-size:12px; color:#333333; font-weight:bold; text-decoration:none; width:10px; float:left; height:20px;padding-top:6px;
+}
+.errElemCls
+{
+	BACKGROUND-COLOR:#ffd9d9;
+}
+#gap3bar{
+	margin:0 auto; padding:0;  height:25px;width:466px;
+}
+.FIAllocmidbox{
+	padding:0;margin-left:15px; width:850px; min-height:350px; background-color:#ebf1f5; border:1px solid #dae1e7;	
+}
+.proposaltxtbox_FI {
+	font-family: Helvetica; font-size: 12px; font-weight: normal; color: #333333; text-decoration: none; margin: 0px; padding: 0px; float: left; height: 20px;
+	width: 140px; padding-left:4px; padding-right:4px;
+}
+.proposaltxtbox_FIAlloc {
+	font-family: Helvetica; font-size: 12px; font-weight: normal; color: #333333; text-decoration: none; margin: 0px; padding: 0px; float: left; height: 20px;
+	width: 140px; border: 1px solid #7f9db9; padding-left:4px; padding-right:4px;
+}
+.srchfieldbox_FI{
+	margin:0; padding:0; width:750px; height:26px; margin-top:7px; margin-bottom:8px;float:left;
+}

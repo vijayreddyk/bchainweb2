@@ -1,0 +1,181 @@
+/* HEADER STYLING START */
+.header{
+	height:70px;
+}
+.header .header-bg {
+	background-image: url('../../images/topHeader_black.png');
+	background-size: 1350px 70px;
+	background-repeat: repeat-x;
+	width: 100%;
+	border-bottom: 3px solid #ee0000;
+	position: fixed;
+	z-index: 200;
+	height:70px;
+}
+
+.header .magma-logo {
+	margin: 0;
+	padding: 0;
+	width: 102px;
+	height: 69px;
+	float: left;
+}
+
+.header .magma-logo-img {
+	max-height: 66px;
+    margin-left: 10px;
+}
+.header .fi-count{
+	text-align:center;
+	/* color:#F26E47; */
+	color: #313131;
+	margin-top:-5px;
+	margin-bottom:8px;
+}
+.header .poc-link {
+	color: Black;
+	font-size: 13px;
+	text-decoration: underline;
+}
+.header-menu .roles{
+	/*width:24%*/
+	display: block;
+}
+.header .password{
+	padding-left:5%
+}
+.header .logout{
+	padding-left:1%
+}
+.header  .dropdown-menu{
+	font-size:12px;
+}
+.header .dropdown-menu>li>a{
+	padding:3px 14px;
+	color:#ee0000;	
+}
+.header .dropdown-menu.pull-right{
+	right:60px!important;
+}
+.active{
+color:#6e1e19!important;
+}
+
+.fi-count-padding{
+	padding: 10px;
+}
+
+.user-modules-padding{
+	padding: 5px !important;
+}
+
+.border-light{
+	border-left:2px solid #fdf9ee;
+	
+}
+.border-dark {
+	border-left:2px solid #e3d2b6;
+	height:30px;
+	padding-top:10%;
+	cursor:pointer;
+	text-align:center;
+}
+.header .link{
+	padding-right: 10px;
+}
+
+/* HEADER STYLING END */
+/* FOOTER STYLING START */
+.footer .footer-content {
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+	height: 48px;
+	background-color: #cfd0d2;
+	position: fixed;
+	bottom: 0;
+	z-index: 99;
+}
+
+.footer .footer-text {
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+	height: 30px;
+	margin-top: 6px;
+	float: right;
+	text-align: right;
+	margin-right: 20px;
+	font-style:italic;
+}
+.footer .version{
+	font-style:normal
+	
+	
+}
+/* FOOTER STYLING END */
+
+@media (max-width: 767px){
+	.header .logout img{
+		padding-top:15%!important;
+	
+	}
+	.header .dropdown-menu>li>a{
+		color: #fff;
+	}
+	.header .dropdown-menu>li>a:hover {
+		background-color:#5e5e5e;
+	}
+	.header .dropdown-menu.pull-right{
+		right:10px!important;
+	    min-height: 95vh;
+	}
+	.header .poc-link {
+		color: #fff;
+		font-size: 14px;
+		text-decoration: none;
+	}
+	.fi-count-padding,
+	.user-modules-padding{
+		padding: 0 !important;
+		font-size: 12px;
+	}
+	.header #role .password{
+		padding-top:30%!important;
+	}
+	.header .fi-count{
+		margin-top: 0;	
+		margin-bottom:0;
+	    float: right;
+    	margin-right: 70px;
+	}
+	.role-name,
+	.lastlogin{
+		font-size: 14px;
+	}
+	.header .header-bg {
+		height: 80px;
+		background-size: 1350px 80px;
+	}
+}
+
+@media only screen and (min-width:521px) and (max-width: 767px){
+	.header .header-bg {
+		height: 70px;
+		background-size: 1350px 70px;
+	}
+	.link .fa-2x{
+		 font-size: 1.5em;
+	}
+	.module-mobile{
+		margin-top: -15px;
+	}
+}
+@media only screen and (min-width:320px) and (max-width: 520px) {
+	.link .fa-2x{
+		 font-size: 1.5em;
+	}
+	.module-mobile{
+		margin-top: 0px;
+	}
+}

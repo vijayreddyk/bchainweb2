@@ -1,0 +1,16 @@
+.dashboard .heading h4{
+	color:#e95936;
+	font-size:16px;
+}
+.heading .panel-title a:focus, 
+.heading .panel-title a:hover{
+	text-decoration:none;
+}
+.heading .panel-title{
+	font-size:14px;
+}
+.heading .panel-title .glyphicon{
+	margin-right:10px;
+	color:#717171;
+	font-size:12px
+}

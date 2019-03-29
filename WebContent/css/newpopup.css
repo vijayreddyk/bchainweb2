@@ -1,0 +1,97 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#wrapperpopup{
+	margin:0 auto; padding:0; width:550px; height:300px; border:3px solid #333333; background-color:#eeeeee;
+}
+#wrapperdepositmispopup{
+	margin:0 auto; padding:0; width:550px; height:200px; border:3px solid #333333; background-color:#eeeeee;
+}
+#wrapperdepositmispopup02{
+	margin:0 auto; padding:0; width:550px; height:230px; border:3px solid #333333; background-color:#eeeeee;
+}
+#wrapperpopup01{
+	margin:0 auto; padding:0; width:550px; height:500px; border:3px solid #333333; background-color:#eeeeee;
+}
+#topwrapbar{
+	margin:0; padding:0; width:550px; height:35px; background-color:#333333; clear:both;
+}
+.closepopupbutton{
+	margin:0; padding:0; margin-top:4px; float:left; padding-left:490px;
+}
+#middlesection{
+	margin:0 auto; padding:25px; width:500px; height:220px;
+}
+#middlesection_depslip{
+	margin:0 auto; width:500px; height:125px;
+}
+#middlesection_depslip02{
+	margin:0 auto; width:500px; height:35px; margin-top:10px; clear:both;
+}
+#linehgtgap{
+	width:450px; height:30px; padding-left:25px; padding-top:15px;; float:left;
+}
+#middlesection01{
+	margin:0 auto; padding:25px; width:500px; height:420px;
+}
+.popuphdsection{
+	margin:0; padding:0; width:500px; height:50px; font-family:Arial, Helvetica, sans-serif; font-size:18px; color:#000; font-weight:500; float:left;
+}
+.popupexceptionhdsection{
+	margin:0; padding:0; width:500px; height:30px; font-family:Arial, Helvetica, sans-serif; font-size:18px; color:#000; font-weight:500; float:left;
+}
+.popupexceptionamount{
+	margin:0; padding:0; width:500px; height:30px; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000; font-weight:500; float:left;
+}
+.popupremarks{
+	margin:0; padding:0; width:500px; height:90px; float:left;
+}
+.popupremarkstxt{
+	margin:0; padding:0; width:120px; height:90px; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000; font-weight:500; float:left;
+}
+.popcolon{
+	margin:0; padding:0; width:5px; height:130px; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000; font-weight:bold; float:left;
+}
+.poptextbox{
+	margin:0; padding:0; width:370px; height:80px; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000; font-weight:normal; float:left;
+}
+#popbuttons{
+	margin:0; padding:0; width:500px; height:30px; margin-top:15px; float:left;
+}
+.popbuttonhgt{
+	margin:0; padding:0; width:120px; height:30px; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000; font-weight:500; float:left;
+}
+.popbutmain{
+	margin:0; padding:0; width:360px; height:30px;
+}
+.editpopupblock{
+	margin:0; padding:0; width:500px; height:30px; float:left; clear:both;
+}
+.editpopupblocktxt{
+	margin:0; padding:0; width:120px; height:30px; font-family:Arial, "Helvetica", sans-serif; font-size:12px; color:#000; font-weight:500; float:left; line-height:26px; clear:both;
+}
+.editpoptextbox{
+	margin:0; padding:0; width:300px; height:30px; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000; font-weight:normal; float:left;
+}
+.browseeditpoptextbox{
+	margin:0; padding:0; width:228px; height:30px; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000; font-weight:normal; float:left;
+}
+.editblockbox{
+	margin:0; padding:0; width:275px; height:30px; border:1px solid #999; font-family:Helvetica; font-size:14px; color:#333; font-weight:normal;
+}
+.browseblockbox{
+	margin:0; padding:0; width:218px; height:30px; border:1px solid #999; font-family:Helvetica; font-size:14px; color:#333; font-weight:normal;
+}
+.dropeditblockbox{
+	margin:0; padding:0; width:302px; height:30px; border:1px solid #999; font-family:Helvetica; font-size:14px; color:#333; font-weight:normal; clear:both;
+}
+.minheightblock{
+	margin:0; padding:0; width:500px; height:10px; font-family:Arial, Helvetica, sans-serif; font-size:18px; color:#000; font-weight:500; float:left;
+}
+#minheightblockcontent{
+	margin:0; padding:0; width:500px; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000; font-weight:normal; float:left;
+}
+.calicon{
+	margin:0; padding:0; margin-left:10px; elevation:30px; float:left; margin-top:3px;
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 26 Mar, 2019 3:38:57 PM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="com.bchain2.entities.StudentLoginDetails" table="student_login_details">
+        <id name="id" type="long">
+            <column name="id" length="32"/>
+            	<generator class="sequence">            
+            		<param name="sequence">student_login_details_id_seq</param>
+            	</generator>
+        </id>
+        <property name="studentName" type="java.lang.String">
+            <column name="student_name" />
+        </property>
+        <property name="studentId" type="java.lang.String">
+            <column name="student_id" />
+        </property>
+        <property name="password" type="java.lang.String">
+            <column name="password" />
+        </property>
+        <property name="branch" type="java.lang.String">
+            <column name="branch" />
+        </property>
+        <property name="gender" type="java.lang.String">
+            <column name="gender" />
+        </property>
+        <property name="age" type="int">
+            <column name="age" />
+        </property>
+    </class>
+</hibernate-mapping>

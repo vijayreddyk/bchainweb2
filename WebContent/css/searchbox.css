@@ -1,0 +1,184 @@
+/* CSS Document */
+
+.comcodesr {
+	font-family: Helvetica;	font-size: 12px; width:90px; font-weight: bold; color: #333333; text-decoration: none; float: left; height: 20px; padding-top: 3px;
+	padding-bottom: 0px; padding-left: 0px; margin: 0px; list-style-type:none;
+}
+.comcodedrpdn {
+	font-family: Helvetica; font-size: 12px; font-weight: normal; color: #333333; text-decoration: none; margin: 0px; padding: 0px; float: left; height: 16px;
+	width: 85px; border: 0px solid #7f9db9; padding-left:4px; padding-right:8px;
+}
+.drpdwncode {
+	font-family: Helvetica; font-size: 12px; font-weight: normal; color: #333333; text-decoration: none; margin: 0px; padding: 0px; float: left; height: 16px;
+	width: 65px; border: 0px solid #7f9db9; padding-left:4px; padding-right:8px;
+}
+.drpdwncodetxt{
+	font-family:Helvetica; font-size:11px; color:#333333; font-weight:normal; text-decoration:none; width:65px; height:22px; 
+}
+.drpdwncodeNew {
+	font-family: Helvetica; font-size: 12px; font-weight: normal; color: #333333; text-decoration: none; margin: 0px; padding: 0px; float: left; height: 16px; border: 0px solid #7f9db9; padding-left:4px; padding-right:8px;
+}
+.drpdwncodeNew_v2 {
+	font-family: Helvetica; font-size: 12px; font-weight: normal; color: #333333; text-decoration: none; margin: 0px; padding: 0px; float: left; height: 16px; border: 0px solid #7f9db9; padding-left:4px; padding-right:8px;margin-top:7px; margin-bottom:8px;
+}
+.drpdwncodeNew_multi {
+	font-family: Helvetica; font-size: 12px; font-weight: normal; color: #333333; text-decoration: none; margin: 0px; padding: 0px; float: left; height: auto; border: 0px solid #7f9db9; padding-left:0px; padding-right:0px;
+}
+.drpdwncodeFI {
+	font-family: Helvetica; font-size: 12px; font-weight: normal; color: #333333; text-decoration: none; margin: 0px; padding: 0px; float: left; height: 26px; border: 0px solid #7f9db9; padding-left:4px; padding-right:8px;width:165px;
+}
+.drpdwncodeFI_txtarea {
+	font-family: Helvetica; font-size: 12px; font-weight: normal; color: #333333; text-decoration: none; margin: 0px; padding: 0px; float: left; height: 100px; border: 0px solid #7f9db9; padding-left:4px; padding-right:8px;width:165px;
+}
+.drpdwncodeNew_DOC {
+	font-family: Helvetica; font-size: 12px; width:100px; font-weight: normal; color: #333333; text-decoration: none; margin: 0px; padding: 0px; float: left; height: 16px; border: 0px solid #7f9db9; padding-left:4px; padding-right:8px;
+}
+.drpdwncodetxtNew{
+	font-family:Helvetica; font-size:11px; color:#333333; font-weight:normal; text-decoration:none; width:105px; height:22px; 
+}
+.drpdwncodetxtNewAllocate{
+	font-family:Helvetica; font-size:11px; color:#333333; font-weight:normal; text-decoration:none; width:180px; height:22px; 
+}
+.drpdwncodetxtSmall{
+	font-family:Helvetica; font-size:11px; color:#333333; font-weight:normal; text-decoration:none; width:60px; height:22px; 
+}
+.drpdwncodetxtMultiSelectionMedium{
+	font-family:Helvetica; font-size:11px; color:#333333; font-weight:normal; text-decoration:none; width:94px; height:22px; 
+}
+.drpdwncodetxtNew1{
+	font-family:Helvetica; font-size:11px; color:#333333; font-weight:normal; text-decoration:none; width:85px; height:22px; 
+}
+
+#manageGStable{
+	margin:0 auto; padding:0; width:963px; height:300px; margin-top:10px; border:0px solid #bbccdd;
+}
+#managetableheight {
+	margin:0; padding:0; height:300px; width:963px;
+}
+#manageborder{
+	margin:0; padding:0; background-color:#e4eeff; width:963px;; height:26px; border-bottom:0px solid #bbccdd; border-top:1px solid #bbccdd; border-left:1px solid #bbccdd; border-right:1px solid #bbccdd;
+}
+
+
+.propalocPDC {margin: 0;padding: 0;font-family: Helvetica;font-size: 11px;color: black;font-weight: normal;text-decoration: none;padding-left: 5px;}
+
+
+.propalocdocdel {margin: 0;padding: 0;width:125px;height:26px;font-family: Helvetica;font-size: 11px;color: black;font-weight: normal;text-decoration: none;padding-left: 5px;}
+
+
+.vwblutxtDOC {margin: 0;padding: 0;width: 250px;float: left;height: 26px;background-color: #CCCCFF;}
+
+
+.vwbluright {margin: 0;padding: 0;width: 125px;float: left;height: 26px;background-color: #CCCCFF;}
+
+
+.vwgapPDC {
+margin: 0;
+padding: 0;
+width: 671px;
+float: left;
+height: 26px;
+}
+
+
+
+
+.vwleftPDC {
+margin: 0;
+padding: 0;
+width: 250px;
+float: left;
+height: auto !important;
+min-height: 26px;
+background-color: #ffd5d6;
+}
+
+
+.colonPDC {
+margin: 0;
+padding: 0;
+width: 1px;
+height: 26px;
+float: left;
+}
+
+.gapheight {margin: 0;padding: 0;width: 440px;height: 10px;float: left;}
+.gapheight01 {margin: 0;padding: 0;width: 440px;height: 2px;float: left;}
+
+.vwblutxtPDC {
+margin: 0;
+padding: 0;
+width: 420px;
+float: left;
+height: auto !important;
+min-height: 26px;
+background-color: #ffedee;
+}
+
+.propalocPDC {
+margin: 0;
+padding: 0;
+font-family: Helvetica;
+font-size: 11px;
+color: black;
+font-weight: normal;
+text-decoration: none;
+padding-left: 5px;
+}
+
+.bigdrkPDC {
+font-family: arial;
+font-size: 11px;
+color: black;
+font-weight: bold;
+text-decoration: none;
+float: left;
+padding-top: 5px;
+padding-left: 5px;
+}
+
+.bigdrkFI {
+font-family: arial;
+font-size: 11px;
+color: black;
+font-weight: bold;
+text-decoration: none;
+float: left;
+padding-top: 5px;
+padding-left: 1px;
+}
+
+.dropdowntextfieldPDC {
+margin: 0;
+padding: 0;
+width: 162px;
+height: 20px;
+font-family: Helvetica;
+font-size: 11px;
+color: #333;
+font-weight: normal;
+text-decoration: none;
+margin-top: 1px;
+border: 1px solid #7F9DB9;
+margin-top: 3px;
+}
+
+.vwleftDOC {
+margin: 0;
+padding: 0;
+width: 250px;
+float: left;
+height: auto !important;
+min-height: 26px;
+background-color: 	#CCCCFF ;
+}
+
+.vwblutxtDOC {
+margin: 0;
+padding: 0;
+width: 180px;
+float: left;
+height: auto !important;
+min-height: 26px;
+background-color: #CCCCFF;
+}
