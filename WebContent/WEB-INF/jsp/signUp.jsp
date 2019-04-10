@@ -14,6 +14,16 @@
 <body>
 	<div class="container-fluid" style="padding-top: 20px;">
 		<div class="row">
+			<div
+				style="font-family: arial; font-size: 12px; font-weight: bold; color: #FF0000; margin-left: 10px; margin-top: 15px; float: left;">
+				<spring:hasBindErrors name="bchainObject">
+					<c:forEach var="err" items="${errors.allErrors}">
+						<c:out value="${err.defaultMessage}" />&nbsp;
+					</c:forEach>
+				</spring:hasBindErrors>
+			</div>
+		</div>
+		<div class="row">
 			<div class="col-md-4 col-sm-4"></div>
 			<div class="col-md-4 col-sm-4">
 				<form onsubmit="doSignUp()">
