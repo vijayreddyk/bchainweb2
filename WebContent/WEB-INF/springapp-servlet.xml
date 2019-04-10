@@ -6,8 +6,6 @@
 </bean>
 <bean name="/checkController.htm" class="com.bchain2.controllers.checkController">
 </bean>
-<bean name="/signinController.htm" class="com.bchain2.controllers.signinController">
-</bean>
 <bean name="/homePageController.htm" class="com.bchain2.controllers.homePageController">
 </bean>
 <bean id="viewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">

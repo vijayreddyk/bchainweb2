@@ -23,7 +23,7 @@
 						</tr>
 						<tr>
 							<td><b>Student name</b></td>
-							<td><spring:bind path="commandObject.studentName">
+							<td><spring:bind path="bchainObject.studentName">
 									<input type="text" name="<c:out value='${status.expression}'/>"
 										id="<c:out value='${status.expression}'/>"
 										value="<c:out value='${status.value}'/>" class="form-control" />
@@ -31,7 +31,7 @@
 						</tr>
 						<tr>
 							<td><b>Student Id</b></td>
-							<td><spring:bind path="commandObject.studentId">
+							<td><spring:bind path="bchainObject.studentId">
 									<input type="text" id="<c:out value='${status.expression}'/>"
 										name="<c:out value='${status.expression}'/>"
 										value="<c:out value='${status.value}'/>" class="form-control" />
@@ -39,7 +39,7 @@
 						</tr>
 						<tr>
 							<td><b>Pass word</b></td>
-							<td><spring:bind path="commandObject.password">
+							<td><spring:bind path="bchainObject.password">
 									<input type="password"
 										id="<c:out value='${status.expression}'/>"
 										name="<c:out value='${status.expression}'/>"
@@ -49,11 +49,11 @@
 						<tr>
 							<td><b>Branch</b></td>
 							<td>
-									<spring:bind path="commandObject.branch">
+									<spring:bind path="bchainObject.branch">
 										<c:set var="selectedStatus" value="${status.value}" />
 										<select name="<c:out value='${status.expression}'/>" id="<c:out value='${status.expression}'/>" class="form-control">
 											<option value="">Select</option>
-											<c:forEach items="${commandObject.branchList}" var="row" varStatus="status">
+											<c:forEach items="${bchainObject.branchList}" var="row" varStatus="status">
 												<option <c:if test="${selectedStatus == row.code}">selected</c:if> value="<c:out value='${row.code}'/>">
 													<c:out value="${row.name}" />
 												</option>
@@ -65,7 +65,7 @@
 						<tr>
 							<td><b>Gender</b></td>
 							<td>
-								<spring:bind path="commandObject.gender">
+								<spring:bind path="bchainObject.gender">
 									<input type="radio" value="M"  name="gender"/>M<br>
 									<input type="radio" value="F" name="gender"/>F<br> 
 								</spring:bind>
@@ -73,7 +73,7 @@
 						</tr>
 						<tr>
 							<td><b>Age</b></td>
-							<td><spring:bind path="commandObject.age">
+							<td><spring:bind path="bchainObject.age">
 									<input type="text" id="<c:out value='${status.expression}'/>"
 										name="<c:out value='${status.expression}'/>"
 										value="<c:out value='${status.value}'/>" class="form-control" />
